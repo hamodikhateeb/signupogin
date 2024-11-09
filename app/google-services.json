@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613801828372",
+    "project_id": "singuplogin-87dc9",
+    "storage_bucket": "singuplogin-87dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613801828372:android:d4e8ee997284ff42214701",
+        "android_client_info": {
+          "package_name": "com.example.signupogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Wbi0zFYRIN9CisSw1UnKDewRrhbnfm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
